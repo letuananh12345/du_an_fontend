@@ -27,9 +27,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",".\\src\\assets\\css\\bootstrap.css",".\\src\\assets\\css\\elegant-fonts.css"
             ],
-            "scripts": []
+            "scripts": [".\\src\\assets\\js\\jquery.js"]
+
           },
           "configurations": {
             "production": {
